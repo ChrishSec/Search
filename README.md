@@ -16,7 +16,7 @@ Search helps you find files or folders from the root "/" for Linux or "C:\" for 
 
 - OR
 
-You can download the latest compiled version from the [releases page]().
+You can download the latest compiled version from the [releases page](https://github.com/ChrishSec/Search/releases).
 
 ### Usage
 
