@@ -1,7 +1,5 @@
 ## Search
 
----
-
 Search helps you find files or folders from the root ("/" for Linux or "C:\" for Windows). Useful for finding files like flag.txt in CTF challenges.
 
 ---
