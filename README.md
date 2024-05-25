@@ -1,6 +1,6 @@
 ## Search
 
-`Search` searches for a specific file or folder within the file system. It starts from the root directory ("/" for Linux systems or "C:\" for Windows systems) and looks through all directories to find the specified file or folder. This is useful for CTF players to find files like flag.txt.
+searches for a specific file or folder within the file system. It starts from the root directory ("/" for Linux systems or "C:\" for Windows systems) and looks through all directories to find the specified file or folder. This is useful for CTF players to find files like flag.txt.
 
 ### Build Instructions
 
